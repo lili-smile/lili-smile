@@ -1,8 +1,8 @@
 ﻿<div align="center">
-  <img src="assets/banner.svg" alt="Flowers and cats banner" width="100%" />
+  <img src="assets/banner.png" alt="Flowers and cats banner" width="100%" />
   <h1>嗨，我是 Lili 👋</h1>
   <p><strong>华南农业大学 博士在读</strong> | PhD Student @ South China Agricultural University (SCAU)</p>
-  <p>研究方向: [关键词1] / [关键词2] / [关键词3] | Research: [Keyword 1] / [Keyword 2] / [Keyword 3]</p>
+  <p>研究方向: 深度学习 / 视觉模型 / 动物科学  Research: deeplearn/ computervison/ animal science</p>
   <p>
     <a href="mailto:your_email@example.com">Email</a> ·
     <a href="https://scholar.google.com/">Google Scholar</a> ·
@@ -60,3 +60,4 @@
 - ✨ 学术与生活都要闪闪发光
 
 <!-- TODO: 把方括号内容和链接替换成你的真实信息 -->
+
