@@ -1,5 +1,7 @@
-﻿<div align="center">
-  <img src="assets/banner.png" alt="Flowers and cats banner" width="100%" />
+﻿<video src="assets/lili.mp4" controls loop muted playsinline width="100%"></video>
+
+<div align="center">
+  <img src="assets/image.png" alt="Flowers and cats banner" width="100%" />
   <h1>嗨，我是 Lili 👋</h1>
   <p><strong>华南农业大学 博士在读</strong> | PhD Student @ South China Agricultural University (SCAU)</p>
   <p>研究方向: 深度学习 / 视觉模型 / 动物科学  Research: deeplearn/ computervison/ animal science</p>
@@ -15,14 +17,12 @@
 
 ## About Me | 关于我
 - 🎓 博士在读，热爱科研与分享
-- 🌱 关注 [研究方向/领域]，探索 [应用场景]
-- 🧪 目前在做 [课题/项目]（一句话概述）
+- 🌱 关注 [智能投喂]，探索 [计算机视觉]
+- 🧪 目前在做 [智能投喂和计算机视觉]
 - 🐱 喜欢猫咪和花花，也喜欢把科研做成有温度的故事
 
 ## Research | 研究方向
-- [方向 1]：一句话说明
-- [方向 2]：一句话说明
-- [方向 3]：一句话说明
+- [方向 1]：智能投喂理论研究与工程实践
 
 ## Projects & Publications | 项目与成果
 - [项目/论文 A](https://example.com) — 一句话简介
@@ -42,12 +42,6 @@
 - ✅ 目标 2：推进 [合作/实验]
 - ✅ 目标 3：学习 [新方法/工具]
 
-## Stats | 统计
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lili-smile&show_icons=true&bg_color=FFF7E5&title_color=FF6B6B&text_color=2A2A2A&icon_color=4D96FF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lili-smile&background=FFF7E5&ring=FF6B6B&fire=FF9F1C&currStreakLabel=2A2A2A&sideLabels=2A2A2A&sideNums=2A2A2A&dates=2A2A2A" height="165" />
-</div>
-
 ## Contact | 联系
 - Email: your_email@example.com
 - Google Scholar: https://scholar.google.com/
@@ -60,4 +54,5 @@
 - ✨ 学术与生活都要闪闪发光
 
 <!-- TODO: 把方括号内容和链接替换成你的真实信息 -->
+
 
